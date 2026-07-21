@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.bbutt, .ybutt {
+    font-size: 28px;
+    font-family: helvetica, times, sans-serif;
+}
+.bbutt {
+    background-color: black;
+    color: white;
+}
+.ybutt {
+    background-color: yellow;
+    color: black;
+}
